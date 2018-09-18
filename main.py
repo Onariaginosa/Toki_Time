@@ -7,10 +7,21 @@ jinja_env = jinja2.Environment(
    extensions=['jinja2.ext.autoescape'],
    autoescape=True)
 
-class MainPage(webapp2.RequestHandler):
+class StartPage(webapp2.RequestHandler):
       def get(self):
-        welcome_template = jinja_env.get_template("templates/welcome.html")
-        self.response.write(welcome_template.render())
+        start_template = jinja_env.get_template("templates/welcome.html")
+        self.response.write(start_template.render())
+
+class SettingsPage(webapp2.RequestHandler):
+    def get(self):
+        settings_template = jinja_env.get_template("templates/settings.html")
+        self.response.write(settings_template.render())
+
+class MainPage(webapp2.RequestHandler):
+    def get(self):
+        main_template = jinja_env.get_template("templates/main.html")
+        self.response.write(main_template.render())
+
 
 app = webapp2.WSGIApplication([
-    ('/', MainPage),], debug=True)
+    ('/', StartPage),('/settings', SettingsPage),('/main', MainPage),], debug=True)
