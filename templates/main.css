@@ -4,7 +4,7 @@ body {
   grid-template-columns:310px auto;
   grid-template-rows:205px auto;
   margin:0;
-  background-color:'white';
+  background-color:'linen';
   background-attachment: fixed;
 }
 
