@@ -1,0 +1,96 @@
+[33mcommit 014ab40dda018e425faefbefa32d59d6df724f28[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Onariaginosa Igbinedion <Ona.Igbinedion@gmail.com>
+Date:   Wed Oct 3 17:20:49 2018 -0700
+
+    moved stuff
+
+[33mcommit 33117b726db3eba98c78c3331b6ed692c1854c0f[m
+Merge: ab7ccbe 2dfb0c6
+Author: Onariaginosa Igbinedion <Ona.Igbinedion@gmail.com>
+Date:   Fri Sep 21 15:40:18 2018 -0700
+
+    trying to fix a merge conflict. wish me luck
+
+[33mcommit ab7ccbee1757d558bb4ef5b4a1f8492dbc6c9f7a[m
+Author: Onariaginosa Igbinedion <Ona.Igbinedion@gmail.com>
+Date:   Fri Sep 21 15:37:52 2018 -0700
+
+    hope this works. changed stuff in main.py but I forgot what
+
+[33mcommit 2dfb0c6f5b4a639638b366c9d64c3e89942d53df[m
+Author: Ameya Mellacheruvu <ameyacapps@gmail.com>
+Date:   Thu Sep 20 16:54:51 2018 -0700
+
+    i accidentally merged some files together from another program but i managed to fix that issue, also added some css changes???
+
+[33mcommit ed9945ebf5f15ba060acc159b447c73e972ce540[m
+Author: Onariaginosa Igbinedion <Ona.Igbinedion@gmail.com>
+Date:   Tue Sep 18 15:53:29 2018 -0700
+
+    I fixed Ameya's wack CSS
+
+[33mcommit 7c5fdd9b16d6661c847b354fa592b7505baf299f[m
+Author: Ameya Mellacheruvu <ameyacapps@gmail.com>
+Date:   Mon Sep 17 22:28:08 2018 -0700
+
+    some styling done to main page
+
+[33mcommit 905c730e9b5cd561facd56f76fc21697b041336e[m
+Author: Onariaginosa Igbinedion <Ona.Igbinedion@gmail.com>
+Date:   Mon Sep 17 20:14:52 2018 -0700
+
+    added welcome page
+
+[33mcommit ea46a2e5a2029ed2f08d79f0480666d27b629575[m
+Author: Ameya Mellacheruvu <ameyacapps@gmail.com>
+Date:   Mon Sep 17 20:11:20 2018 -0700
+
+    This is Ona commiting from Ameya, fixed merge conflict
+
+[33mcommit 7c6da8f696f21ad2723a25eacfb3b1fa218a8764[m
+Author: Onariaginosa Igbinedion <Ona.Igbinedion@gmail.com>
+Date:   Mon Sep 17 20:07:22 2018 -0700
+
+    added settings page, start page
+
+[33mcommit 02f193c8d92fa3df3e0211bd863bb4f4b8f622f9[m
+Author: Onariaginosa Igbinedion <Ona.Igbinedion@gmail.com>
+Date:   Mon Sep 17 19:51:06 2018 -0700
+
+    welcome page working
+
+[33mcommit d13e9f786fd328b9e9568e8b4dcb92345e665618[m
+Author: Ameya Mellacheruvu <ameyacapps@gmail.com>
+Date:   Mon Sep 17 19:47:58 2018 -0700
+
+    templates was added
+
+[33mcommit 5ff40572d7e015c91a41ea3d35892ae1bd163663[m
+Author: Ameya Mellacheruvu <ameyacapps@gmail.com>
+Date:   Mon Sep 17 19:44:57 2018 -0700
+
+    main.py changes
+
+[33mcommit eff323545b090bc702c2185763f0a77ab8a05a9b[m
+Author: Ameya Mellacheruvu <ameyacapps@gmail.com>
+Date:   Mon Sep 17 19:41:02 2018 -0700
+
+    change to main.py
+
+[33mcommit 250ba9e58d17ea555384c46ba84c08e911ede066[m
+Author: Ameya Mellacheruvu <ameyacapps@gmail.com>
+Date:   Mon Sep 17 19:02:04 2018 -0700
+
+    additional changes to app.yaml
+
+[33mcommit b2cb3e0ba26c194532295f41fd6dfecd09f2216b[m
+Author: Ameya Mellacheruvu <ameyacapps@gmail.com>
+Date:   Mon Sep 17 18:54:05 2018 -0700
+
+    new files added, main.py and app.yaml
+
+[33mcommit 6c22d817f1f65f19029d85f4eb40620b33414c6e[m
+Author: Onariaginosa <ona.igbinedion@gmail.com>
+Date:   Mon Sep 17 15:02:47 2018 -0700
+
+    Initial commit

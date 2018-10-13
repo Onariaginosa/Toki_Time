@@ -22,6 +22,11 @@ class MainPage(webapp2.RequestHandler):
         main_template = jinja_env.get_template("templates/main.html")
         self.response.write(main_template.render())
 
+class Checklist(webapp2.RequestHandler):
+    def get(self):
+        checklist_template = jinja_env.get_template("templates/checklist.html")
+        self.response.write(checklist_template.render())
+
 
 app = webapp2.WSGIApplication([
-    ('/', StartPage),('/settings', SettingsPage),('/main', MainPage),], debug=True)
+    ('/', StartPage),('/settings', SettingsPage),('/main', MainPage),('/checklist',Checklist)], debug=True)
